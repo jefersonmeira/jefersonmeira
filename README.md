@@ -2,7 +2,6 @@
 
 Prazer, sou **Jeferson Meira** e sou apaixonado por tecnologia :heart:
 
-
 - :mortar_board: Sou graduado em Ciência da Computação
 - :mortar_board: Sou pós-graduado em Gerenciamento de Projetos e em Engenharia de Requisitos de Software
 - :man_office_worker: Atualmente trabalho como Analista de Requisitos
@@ -23,8 +22,6 @@ Prazer, sou **Jeferson Meira** e sou apaixonado por tecnologia :heart:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-
 
 </br>
 </br>
