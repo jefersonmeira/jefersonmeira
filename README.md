@@ -1,4 +1,4 @@
-# Olá, Mundo! Sejam bem-vindos!
+# Olá, mundo! Sejam bem-vindos!
 
 Prazer, sou **Jeferson Meira** e sou apaixonado por tecnologia :heart:
 
